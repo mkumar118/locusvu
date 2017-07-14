@@ -1,4 +1,4 @@
-# locusvu
+# LocusVu
 Medical Information System for data retrieval and genomics analysis
 
 Migrated from Sourceforge
