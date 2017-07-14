@@ -1,0 +1,157 @@
+0    [main] DEBUG backend.Start  - **** start: 2012/07/31 10:10:01 ****
+702  [AWT-EventQueue-0] INFO  backend.Start  - LocusVu launched successfully
+786  [AWT-EventQueue-0] INFO  gui.GUI  - inside GUI class
+808  [AWT-EventQueue-0] INFO  backend.ResultsTable  - inside ResultsTable class
+810  [AWT-EventQueue-0] INFO  backend.Statistics  - inside statistics
+2514 [AWT-EventQueue-0] INFO  gui.Settings  - inside settings
+0    [main] DEBUG backend.Start  - **** start: 2012/10/23 14:47:55 ****
+866  [AWT-EventQueue-0] INFO  backend.Start  - LocusVu launched successfully
+954  [AWT-EventQueue-0] INFO  gui.GUI  - inside GUI class
+1001 [AWT-EventQueue-0] INFO  backend.ResultsTable  - inside ResultsTable class
+1005 [AWT-EventQueue-0] INFO  backend.Statistics  - inside statistics
+3738 [AWT-EventQueue-0] INFO  gui.Settings  - inside settings
+22452 [AWT-EventQueue-0] INFO  gui.GUI  - file choosing - OPEN window successfully launched
+22452 [AWT-EventQueue-0] DEBUG gui.GUI  - inside displayProgressBar
+22478 [Thread-4] DEBUG backend.TaskManager  - in TaskManager (new thread): runs in the background
+24929 [Thread-4] INFO  backend.Database  - Connection established to database hg18
+24930 [Thread-4] DEBUG backend.GetCytoBand  - inside fetch cytoband
+102502 [Thread-4] INFO  backend.GetCytoBand  - cytoBand queries successfully submitted and data retrieved
+102503 [Thread-4] DEBUG backend.GetGenes  - inside fetch refGene
+186209 [Thread-4] INFO  backend.GetGenes  - refGene queries successfully submitted and data retrieved
+186656 [Thread-4] DEBUG gui.GUI  - inside GUI.displayResults
+199564 [AWT-EventQueue-0] DEBUG gui.GUI  - looking for Neighboring Genes
+199571 [AWT-EventQueue-0] INFO  gui.NeighboringGenes  - inside Neighboring Genes
+199673 [AWT-EventQueue-0] INFO  gui.NeighboringGenes  - fetching neighboring genes
+199893 [AWT-EventQueue-0] INFO  gui.NeighboringGenes  - fetching neighboring genes
+223980 [AWT-EventQueue-0] INFO  gui.DrawPieChart  - inside pie chart
+230885 [AWT-EventQueue-0] INFO  gui.DrawPieChart  - inside pie chart
+236130 [AWT-EventQueue-0] INFO  gui.DrawPieChart  - inside pie chart
+244119 [AWT-EventQueue-0] DEBUG gui.DrawBarChart  - inside barchart
+290360 [AWT-EventQueue-0] INFO  gui.GUI  - User cancelled printing
+303235 [AWT-EventQueue-0] INFO  gui.GUI  - file choosing - OPEN window successfully launched
+303235 [AWT-EventQueue-0] DEBUG gui.GUI  - inside displayProgressBar
+303237 [Thread-5] DEBUG backend.TaskManager  - in TaskManager (new thread): runs in the background
+306395 [Thread-5] INFO  backend.Database  - Connection established to database hg18
+306395 [Thread-5] DEBUG backend.GetCytoBand  - inside fetch cytoband
+384788 [Thread-5] INFO  backend.GetCytoBand  - cytoBand queries successfully submitted and data retrieved
+384788 [Thread-5] DEBUG backend.GetGenes  - inside fetch refGene
+471456 [Thread-5] INFO  backend.GetGenes  - refGene queries successfully submitted and data retrieved
+471639 [Thread-5] DEBUG gui.GUI  - inside GUI.displayResults
+572225 [AWT-EventQueue-0] INFO  gui.CompareDatasets  - generating comparison table for all datasets
+572237 [AWT-EventQueue-0] INFO  gui.CompareDatasets  - received comparisonMap, now creating comparison table
+609000 [AWT-EventQueue-0] INFO  backend.Start  - LocusVu launched successfully
+609007 [AWT-EventQueue-0] INFO  gui.GUI  - inside GUI class
+609014 [AWT-EventQueue-0] INFO  backend.ResultsTable  - inside ResultsTable class
+609014 [AWT-EventQueue-0] INFO  backend.Statistics  - inside statistics
+0    [main] DEBUG backend.Start  - **** start: 2012/11/04 22:39:15 ****
+1802 [AWT-EventQueue-0] INFO  backend.Start  - LocusVu launched successfully
+2137 [AWT-EventQueue-0] INFO  gui.GUI  - inside GUI class
+2315 [AWT-EventQueue-0] INFO  backend.ResultsTable  - inside ResultsTable class
+2356 [AWT-EventQueue-0] INFO  backend.Statistics  - inside statistics
+7986 [AWT-EventQueue-0] INFO  gui.Settings  - inside settings
+24667 [AWT-EventQueue-0] INFO  gui.Settings  - inside settings
+38218 [AWT-EventQueue-0] INFO  gui.GUI  - file choosing - OPEN window successfully launched
+38219 [AWT-EventQueue-0] DEBUG gui.GUI  - inside displayProgressBar
+38296 [Thread-4] DEBUG backend.TaskManager  - in TaskManager (new thread): runs in the background
+42251 [Thread-4] INFO  backend.Database  - Connection established to database hg18
+42320 [Thread-4] DEBUG backend.GetCytoBand  - inside fetch cytoband
+45212 [Thread-4] INFO  backend.GetCytoBand  - cytoBand queries successfully submitted and data retrieved
+45213 [Thread-4] DEBUG backend.GetGenes  - inside fetch refGene
+48444 [Thread-4] INFO  backend.GetGenes  - refGene queries successfully submitted and data retrieved
+48880 [Thread-4] DEBUG gui.GUI  - inside GUI.displayResults
+63475 [AWT-EventQueue-0] DEBUG gui.GUI  - looking for Neighboring Genes
+63759 [AWT-EventQueue-0] INFO  gui.NeighboringGenes  - inside Neighboring Genes
+63846 [AWT-EventQueue-0] INFO  gui.NeighboringGenes  - fetching neighboring genes
+64047 [AWT-EventQueue-0] INFO  gui.NeighboringGenes  - fetching neighboring genes
+114569 [AWT-EventQueue-0] INFO  gui.GUI  - file choosing - OPEN window successfully launched
+114569 [AWT-EventQueue-0] DEBUG gui.GUI  - inside displayProgressBar
+114575 [Thread-5] DEBUG backend.TaskManager  - in TaskManager (new thread): runs in the background
+116731 [Thread-5] INFO  backend.Database  - Connection established to database hg18
+116731 [Thread-5] DEBUG backend.GetCytoBand  - inside fetch cytoband
+119124 [Thread-5] INFO  backend.GetCytoBand  - cytoBand queries successfully submitted and data retrieved
+119125 [Thread-5] DEBUG backend.GetGenes  - inside fetch refGene
+121855 [Thread-5] INFO  backend.GetGenes  - refGene queries successfully submitted and data retrieved
+122033 [Thread-5] DEBUG gui.GUI  - inside GUI.displayResults
+132747 [AWT-EventQueue-0] INFO  gui.GUI  - file choosing - OPEN window successfully launched
+132747 [AWT-EventQueue-0] DEBUG gui.GUI  - inside displayProgressBar
+132748 [Thread-6] DEBUG backend.TaskManager  - in TaskManager (new thread): runs in the background
+134706 [Thread-6] INFO  backend.Database  - Connection established to database hg18
+134706 [Thread-6] DEBUG backend.GetCytoBand  - inside fetch cytoband
+137742 [Thread-6] INFO  backend.GetCytoBand  - cytoBand queries successfully submitted and data retrieved
+137743 [Thread-6] DEBUG backend.GetGenes  - inside fetch refGene
+141120 [Thread-6] INFO  backend.GetGenes  - refGene queries successfully submitted and data retrieved
+141315 [Thread-6] DEBUG gui.GUI  - inside GUI.displayResults
+144273 [AWT-EventQueue-0] INFO  gui.CompareDatasets  - generating comparison table for all datasets
+144274 [AWT-EventQueue-0] INFO  gui.CompareDatasets  - received comparisonMap, now creating comparison table
+166045 [AWT-EventQueue-0] INFO  gui.CompareDatasets  - received comparisonMap, now creating comparison table
+198565 [AWT-EventQueue-0] INFO  gui.Save  - writing to output file
+198675 [AWT-EventQueue-0] ERROR gui.Save  - cannot write to output file:/home/mkumar/Desktop/output.txt (No such file or directory)
+224556 [AWT-EventQueue-0] DEBUG gui.Save  - Save as location selected: /Users/extra/Desktop
+225863 [AWT-EventQueue-0] INFO  gui.Save  - writing to output file
+226007 [AWT-EventQueue-0] INFO  gui.Save  - output file successfully created
+253728 [AWT-EventQueue-0] INFO  gui.DrawPieChart  - inside pie chart
+260813 [AWT-EventQueue-0] INFO  gui.DrawPieChart  - inside pie chart
+266524 [AWT-EventQueue-0] INFO  gui.DrawPieChart  - inside pie chart
+278014 [AWT-EventQueue-0] DEBUG gui.GUI  - going to UCSC
+0    [main] DEBUG backend.Start  - **** start: 2015/04/22 15:47:31 ****
+230  [AWT-EventQueue-0] INFO  backend.Start  - LocusVu launched successfully
+337  [AWT-EventQueue-0] INFO  gui.GUI  - inside GUI class
+364  [AWT-EventQueue-0] INFO  backend.ResultsTable  - inside ResultsTable class
+368  [AWT-EventQueue-0] INFO  backend.Statistics  - inside statistics
+10640 [AWT-EventQueue-0] INFO  gui.Settings  - inside settings
+31542 [AWT-EventQueue-0] INFO  gui.GUI  - file choosing - OPEN window successfully launched
+31542 [AWT-EventQueue-0] DEBUG gui.GUI  - inside displayProgressBar
+31553 [Thread-0] DEBUG backend.TaskManager  - in TaskManager (new thread): runs in the background
+33872 [Thread-0] INFO  backend.Database  - Connection established to database hg18
+33874 [Thread-0] DEBUG backend.GetCytoBand  - inside fetch cytoband
+0    [main] DEBUG backend.Start  - **** start: 2015/04/22 15:49:18 ****
+238  [AWT-EventQueue-0] INFO  backend.Start  - LocusVu launched successfully
+348  [AWT-EventQueue-0] INFO  gui.GUI  - inside GUI class
+374  [AWT-EventQueue-0] INFO  backend.ResultsTable  - inside ResultsTable class
+378  [AWT-EventQueue-0] INFO  backend.Statistics  - inside statistics
+2304 [AWT-EventQueue-0] INFO  gui.Settings  - inside settings
+13367 [AWT-EventQueue-0] INFO  gui.GUI  - file choosing - OPEN window successfully launched
+13367 [AWT-EventQueue-0] DEBUG gui.GUI  - inside displayProgressBar
+13376 [Thread-0] DEBUG backend.TaskManager  - in TaskManager (new thread): runs in the background
+15393 [Thread-0] INFO  backend.Database  - Connection established to database hg18
+15394 [Thread-0] DEBUG backend.GetCytoBand  - inside fetch cytoband
+18476 [Thread-0] INFO  backend.GetCytoBand  - cytoBand queries successfully submitted and data retrieved
+18478 [Thread-0] DEBUG backend.GetGenes  - inside fetch refGene
+21767 [Thread-0] INFO  backend.GetGenes  - refGene queries successfully submitted and data retrieved
+21768 [Thread-0] DEBUG backend.GetRepeats  - submitting query to fetch repMasker information from the database
+27347 [Thread-0] INFO  backend.GetRepeats  - repeats query successfully submitted and data retrieved
+27347 [Thread-0] DEBUG gui.GUI  - inside GUI.displayResults
+35342 [AWT-EventQueue-0] DEBUG gui.GUI  - looking for Neighboring Genes
+35389 [AWT-EventQueue-0] INFO  gui.NeighboringGenes  - inside Neighboring Genes
+35408 [AWT-EventQueue-0] INFO  gui.NeighboringGenes  - fetching neighboring genes
+35615 [AWT-EventQueue-0] INFO  gui.NeighboringGenes  - fetching neighboring genes
+0    [main] DEBUG backend.Start  - **** start: 2015/04/22 15:50:19 ****
+256  [AWT-EventQueue-0] INFO  backend.Start  - LocusVu launched successfully
+365  [AWT-EventQueue-0] INFO  gui.GUI  - inside GUI class
+394  [AWT-EventQueue-0] INFO  backend.ResultsTable  - inside ResultsTable class
+398  [AWT-EventQueue-0] INFO  backend.Statistics  - inside statistics
+4347 [AWT-EventQueue-0] INFO  gui.Settings  - inside settings
+16349 [AWT-EventQueue-0] INFO  gui.GUI  - file choosing - OPEN window successfully launched
+16349 [AWT-EventQueue-0] DEBUG gui.GUI  - inside displayProgressBar
+16357 [Thread-0] DEBUG backend.TaskManager  - in TaskManager (new thread): runs in the background
+18370 [Thread-0] INFO  backend.Database  - Connection established to database hg18
+18371 [Thread-0] DEBUG backend.GetCytoBand  - inside fetch cytoband
+21453 [Thread-0] INFO  backend.GetCytoBand  - cytoBand queries successfully submitted and data retrieved
+21454 [Thread-0] DEBUG backend.GetGenes  - inside fetch refGene
+24744 [Thread-0] INFO  backend.GetGenes  - refGene queries successfully submitted and data retrieved
+24746 [Thread-0] DEBUG backend.GetRepeats  - submitting query to fetch repMasker information from the database
+30314 [Thread-0] INFO  backend.GetRepeats  - repeats query successfully submitted and data retrieved
+30315 [Thread-0] DEBUG gui.GUI  - inside GUI.displayResults
+32478 [AWT-EventQueue-0] INFO  gui.CompareDatasets  - generating comparison table for all datasets
+32479 [AWT-EventQueue-0] INFO  gui.CompareDatasets  - received comparisonMap, now creating comparison table
+0    [main] DEBUG backend.Start  - **** start: 2015/04/22 15:55:45 ****
+266  [AWT-EventQueue-0] INFO  backend.Start  - LocusVu launched successfully
+404  [AWT-EventQueue-0] INFO  gui.GUI  - inside GUI class
+431  [AWT-EventQueue-0] INFO  backend.ResultsTable  - inside ResultsTable class
+434  [AWT-EventQueue-0] INFO  backend.Statistics  - inside statistics
+2362 [AWT-EventQueue-0] INFO  gui.Settings  - inside settings
+11519 [AWT-EventQueue-0] INFO  gui.GUI  - file choosing - OPEN window successfully launched
+11519 [AWT-EventQueue-0] DEBUG gui.GUI  - inside displayProgressBar
+11528 [Thread-0] DEBUG backend.TaskManager  - in TaskManager (new thread): runs in the background
+13842 [Thread-0] INFO  backend.Database  - Connection established to database hg18
+13843 [Thread-0] DEBUG gui.GUI  - inside GUI.displayResults
